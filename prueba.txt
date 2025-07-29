@@ -1,6 +1,4 @@
 function login(usuario, clave) {
-  console.log("Autenticando usuario...");
-  console.log("Autenticando usuario...");
   validar(usuario, clave);
   // nuevo código
   registrarIntento(usuario);
